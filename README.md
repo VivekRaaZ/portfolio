@@ -1,9 +1,9 @@
 <a name="readme-top"></a>
 <div align="center">
-  
+ 
   <img src="https://images-platform.99static.com/knOOxLpm7L5wbnfxaSjMzsGfaWc=/500x500/top/smart/99designs-contests-attachments/19/19579/attachment_19579909" alt="logo" width="200"  height="auto" />
   <h3><b>Microverse README Template</b></h3>
-  
+ 
 </div>
 # 📗 Table of Contents
 
@@ -27,9 +27,9 @@
 - [📝 License](#license)
 
 
-# 📖 Portfolio: setup and mobile first <a name="about-project"></a>
+# 📖 Portfolio finish mobile version <a name="about-project"></a>
 
-**Portfolio setup and mobile first** is my second project of linter which i created with html, css and linter configuration.
+**Portfolio finish mobile version** is my third project of linter which i created with html, css and linter configuration.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -66,11 +66,11 @@ Coming Soon
 
 >In order to run this project you need:<br>
 
--Have VSCode or another text editor installed. <a href="https://code.visualstudio.com/download">Click to download VSC text editor</a> <br> 
+-Have VSCode or another text editor installed. <a href="https://code.visualstudio.com/download">Click to download VSC text editor</a> <br>
 
--Have git installed. <a href="https://git-scm.com/downloads ">Click to download git</a> <br> 
+-Have git installed. <a href="https://git-scm.com/downloads ">Click to download git</a> <br>
 
--Have GitHub installed. <a href="https://desktop.github.com/">Click to download GitHub</a> <br> 
+-Have GitHub installed. <a href="https://desktop.github.com/">Click to download GitHub</a> <br>
 
 
 To get a local copy up and running, follow these steps.
@@ -80,7 +80,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 - **1. Github account**
-- **2. Code Editor** 
+- **2. Code Editor**
 - **3. Web Browser**
 
 ### Setup
@@ -90,7 +90,7 @@ Clone this repository to your desired folder:-
 Run this commands:
 ```sh
 cd my-folder
-git clone git@github.com:VivekRaaZ/portfolio.git
+git clone git@github.com:VivekRaaZ/mobile-version.git
 ```
 
 ### Install
@@ -109,7 +109,7 @@ open index.html using live server extenshion.
 
 ### Run tests
 
-To run tests, run the following command: 
+To run tests, run the following command:
 
 ```sh
 npx hint .
@@ -149,7 +149,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> The beginning is always difficult, and once the flow begins, then no one can stop it. So do support this second step towards excellence.
+> The beginning is always difficult, and once the flow begins, then no one can stop it. So do support this third step towards excellence.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
