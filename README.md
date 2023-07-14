@@ -27,10 +27,9 @@
 - [📝 License](#license)
 
 
-# 📖 Portfolio: setup and mobile first <a name="about-project"></a>
+# 📖 Portfolio finish mobile version <a name="about-project"></a>
 
-**Portfolio setup and mobile first** is my second project of linter which i created with html, css and linter configuration.
-
+**Portfolio finish mobile version** is a webpage built as a first project to showcase html, css linters,  skills growup during first week of the Microverse program.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -149,7 +148,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> The beginning is always difficult, and once the flow begins, then no one can stop it. So do support this second step towards excellence.
+> The beginning is always difficult, and once the flow begins, then no one can stop it. So do support this third step towards excellence.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,5 +162,5 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 📝 License
-This project is [MIT](License.md) licensed.
+This project is [MIT](LICENSE) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
