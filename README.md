@@ -141,7 +141,7 @@ You can deploy this project using: github, VS Code
 
 - GitHub: [@githubhandle](https://github.com/okayboy12)
 - Twitter: [@twitterhandle](https://twitter.com/okayboy)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/okayboy)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/okechukwu-okeke-5a96b9a2)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,5 +175,5 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 📝 License
-This project is [MIT](LICENSE) licensed.
+This project is [MIT](LICENSE.md) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
