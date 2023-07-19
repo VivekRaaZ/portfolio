@@ -148,7 +148,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> The beginning is always difficult, and once the flow begins, then no one can stop it. So do support this third step towards excellence.
+> The beginning is always difficult, and once the flow begins, then no one can stop it. So do support this step towards excellence.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
