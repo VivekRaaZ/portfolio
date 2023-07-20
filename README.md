@@ -122,13 +122,26 @@ You can deploy this project using: github, VS Code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Author <a name="Vivek Raj"></a>
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Author 1**
+
 
 👤 **Vivek Raj**
 
 - GitHub: [@githubhandle](https://github.com/VivekRaaZ?tab=repositories)
 - Twitter: [@twitterhandle](https://twitter.com/BossVivekRaj)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/vivek-raj-a78b92256/)
+
+  👤 **Author 2**
+
+👤 **Okeke Okechukwu**
+
+- GitHub: [@githubhandle](https://github.com/okayboy12)
+- Twitter: [@twitterhandle](https://twitter.com/okayboy)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/okechukwu-okeke-5a96b9a2)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,7 +161,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> The beginning is always difficult, and once the flow begins, then no one can stop it. So do support this third step towards excellence.
+> The beginning is always difficult, and once the flow begins, then no one can stop it. So do support this step towards excellence.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,5 +175,5 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 📝 License
-This project is [MIT](LICENSE) licensed.
+This project is [MIT](LICENSE.md) licensed.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
