@@ -27,9 +27,9 @@
 - [📝 License](#license)
 
 
-# 📖 Portfolio finish mobile version <a name="about-project"></a>
+# 📖 Portfolio: desktop version <a name="about-project"></a>
 
-**Portfolio finish mobile version** is a webpage built as a first project to showcase html, css linters,  skills growup during first week of the Microverse program.
+**Portfolio: desktop version** is a webpage built as a first project to showcase html, css with media queries, linters,  skills growup during second week of the Microverse program.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -124,24 +124,12 @@ You can deploy this project using: github, VS Code
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
-👤 **Author 1**
-
-
-👤 **Vivek Raj**
+👤 
+**Vivek Raj**
 
 - GitHub: [@githubhandle](https://github.com/VivekRaaZ?tab=repositories)
 - Twitter: [@twitterhandle](https://twitter.com/BossVivekRaj)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/vivek-raj-a78b92256/)
-
-  👤 **Author 2**
-
-👤 **Okeke Okechukwu**
-
-- GitHub: [@githubhandle](https://github.com/okayboy12)
-- Twitter: [@twitterhandle](https://twitter.com/okayboy)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/okechukwu-okeke-5a96b9a2)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/vivek-raj-a78b92256/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
