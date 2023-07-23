@@ -112,9 +112,9 @@ button:active {
   }
 
   div ul li {
-    background-color: #ebebff;
     padding: 4.5px 5px;
     border-radius: 5px;
+    background-color: white;
   }
 
   nav ul li {
@@ -904,8 +904,6 @@ button:active {
     height: 712px;
     width: 60%;
     position: absolute;
-
-    /* margin-top: 35px; */
   }
 
   .myself {
