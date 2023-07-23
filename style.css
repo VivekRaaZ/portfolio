@@ -70,13 +70,35 @@ button:active {
     cursor: pointer;
   }
 
-  .nature > img:hover{
+  ul li a img {
+    width: 10px;
+    height: 10px;
+  }
+
+  .canopy > img {
+    width: 2%;
+    height: 2%;
+    margin-top: 0.5%;
+  }
+
+  .js > img {
+    border-radius: 20px;
+    width: 30px;
+    height: 30px;
+  }
+
+  .nature > img:hover {
     transform: scale(1.05);
   }
 
-input[type="text"]:hover{
-transform: skewX(20deg);
-}
+  input[type="text"] {
+    padding: 10px;
+    margin-top: 16px;
+  }
+
+  input[type="text"]:hover {
+    transform: skewX(20deg);
+  }
 
   .head {
     display: flex;
@@ -181,11 +203,6 @@ transform: skewX(20deg);
     background-color: white;
   }
 
-  ul li a img {
-    width: 10px;
-    height: 10px;
-  }
-
   /* <!-- ------------  Tonic  ------------ --> */
 
   .boss2 {
@@ -245,12 +262,6 @@ transform: skewX(20deg);
     text-align: left;
     color: #344563;
     margin-right: 2%;
-  }
-
-  .canopy > img {
-    width: 2%;
-    height: 2%;
-    margin-top: 0.5%;
   }
 
   .back {
@@ -353,12 +364,6 @@ transform: skewX(20deg);
     display: block;
   }
 
-  .js > img {
-    border-radius: 20px;
-    width: 30px;
-    height: 30px;
-  }
-
   .fan > li {
     list-style-type: none;
   }
@@ -448,11 +453,6 @@ transform: skewX(20deg);
     width: 76%;
     margin: 0 12%;
     border: 1px solid #cfd8dc;
-  }
-
-  input[type="text"] {
-    padding: 10px;
-    margin-top: 16px;
   }
 
   input[type="email"] {
