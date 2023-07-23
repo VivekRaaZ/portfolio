@@ -122,14 +122,24 @@ You can deploy this project using: github, VS Code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 ## 👥 Authors <a name="authors"></a>
 
-👤 
-**Vivek Raj**
+👤 *Author 1*
+
+
+👤 *Vivek Raj*
 
 - GitHub: [@githubhandle](https://github.com/VivekRaaZ?tab=repositories)
 - Twitter: [@twitterhandle](https://twitter.com/BossVivekRaj)
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/vivek-raj-a78b92256/)
+
+ 👤 *Author 2*
+👤 *Okeke Okechukwu*
+
+- GitHub: [@githubhandle](https://github.com/okayboy12)
+- Twitter: [@twitterhandle](https://twitter.com/okayboy)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/okechukwu-okeke-5a96b9a2/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
