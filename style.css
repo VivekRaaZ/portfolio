@@ -67,7 +67,6 @@ button:active {
   .logo:hover {
     transform: rotate(360deg);
     transition: 3s;
-    cursor: pointer;
   }
 
   ul li a img {
