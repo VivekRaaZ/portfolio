@@ -44,6 +44,12 @@ button:active {
 
 @media screen and (min-width: 768px) {
   .intro {
+    background-image: url(image/Header\ bg@2x.jpg);
+    background-position: cover;
+    background-repeat: repeat;
+    background-size: cover;
+    height: 52vh;
+    width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -51,6 +57,20 @@ button:active {
 
   h5 img {
     margin-bottom: -10px;
+  }
+
+  .logo {
+    color: #6070ff;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .logo:hover {
+    transform: rotate(360deg);
+    transition: 3s;
   }
 
   ul li a img {
@@ -84,6 +104,31 @@ button:active {
     font-family: "Poppins", sans-serif;
   }
 
+  .canopy > img {
+    width: 2%;
+    height: 2%;
+    margin-top: 0.5%;
+  }
+
+  .js > img {
+    border-radius: 20px;
+    width: 30px;
+    height: 30px;
+  }
+
+  .nature > img:hover {
+    transform: scale(1.05);
+  }
+
+  input[type="text"] {
+    padding: 10px;
+    margin-top: 16px;
+  }
+
+  input[type="text"]:hover {
+    transform: skewX(20deg);
+  }
+
   .head {
     display: flex;
     justify-content: space-between;
@@ -115,6 +160,13 @@ button:active {
     padding: 4.5px 5px;
     border-radius: 5px;
     background-color: white;
+    background-color: #ebebff;
+    padding: 4.5px 5px;
+    border-radius: 5px;
+  }
+
+  ul li a {
+    padding: 1px;
   }
 
   nav ul li {
@@ -143,7 +195,7 @@ button:active {
 
   .see {
     margin-top: 50px;
-    font-size: 26px;
+    font-size: 48px;
     font-weight: 700;
     line-height: 36px;
     letter-spacing: 0.3700000047683716px;
@@ -153,10 +205,11 @@ button:active {
 
   .material {
     margin: 10% 15%;
+    margin: 10% 16%;
   }
 
   .software {
-    font-size: 11px;
+    font-size: 20px;
     font-weight: 400;
     line-height: 15px;
     letter-spacing: 0;
@@ -185,6 +238,10 @@ button:active {
 
   .container li {
     margin: 0 0.4rem;
+  .social li {
+    margin: 5px 2px 0 0;
+    padding: 5px 10px 0 0;
+    background-color: white;
   }
 
   /* <!-- ------------  Tonic  ------------ --> */
@@ -330,6 +387,30 @@ button:active {
   .icon li a {
     width: 8px;
     height: 8px;
+    display: flex;
+    padding: 10%;
+    border-radius: 0 70px 0 0;
+  }
+
+  .about > aside {
+    width: 200%;
+    padding: 0 2%;
+  }
+
+  .icon {
+    display: flex;
+    margin: 20px 0;
+    list-style-type: none;
+    width: 8px;
+    height: 8px;
+    gap: 15px;
+    margin-top: -9px;
+  }
+
+  .icon li {
+    list-style-type: none;
+    padding: 1px 1px 0 0;
+    background-color: white;
   }
 
   .buton {
@@ -391,6 +472,16 @@ button:active {
 
   .skill {
     margin-top: 20px;
+  }
+
+  .js {
+    width: 24%;
+  }
+
+  .js > p {
+    font-size: 9px;
+    line-height: 1px;
+    margin: 6px 0;
   }
 
   .fan li {
@@ -524,6 +615,12 @@ button:active {
   }
 
   .touch {
+    background-image: url(image/contact.png);
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 53vh;
+    width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -531,7 +628,7 @@ button:active {
   }
 }
 
-/* -------------------------------------------------------------------------------------------------------------- */
+/* -----------------------------------------------------Mobile Version--------------------------------------------------------- */
 
 @media screen and (max-width: 767px) {
   .material {
@@ -581,6 +678,7 @@ button:active {
 
   .canopy {
     font-size: 18px;
+    font-size: 20px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -644,6 +742,10 @@ button:active {
     display: none;
   }
 
+  .box4 {
+    display: none;
+  }
+
   .social {
     display: flex;
     float: left;
@@ -685,6 +787,14 @@ button:active {
   .can {
     font-size: 13px;
     font-weight: 500;
+  }
+
+  .back {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 12px;
+    text-align: left;
+    color: #6b778c;
   }
 
   h2 {
@@ -904,6 +1014,8 @@ button:active {
     height: 712px;
     width: 60%;
     position: absolute;
+
+    /* margin-top: 35px; */
   }
 
   .myself {
