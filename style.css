@@ -44,12 +44,6 @@ button:active {
 
 @media screen and (min-width: 768px) {
   .intro {
-    background-image: url(image/Header\ bg@2x.jpg);
-    background-position: cover;
-    background-repeat: repeat;
-    background-size: cover;
-    height: 52vh;
-    width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -61,16 +55,16 @@ button:active {
 
   .logo {
     color: #6070ff;
-    font-size: 10px;
+    font-size: 20px;
     font-weight: 700;
     line-height: 20px;
     text-align: center;
-    font-family: "Poppins", sans-serif;
   }
 
   .logo:hover {
-    transform: rotate(360deg);
-    transition: 3s;
+    transform: rotate(1080deg);
+    transition: 10s;
+    cursor: pointer;
   }
 
   ul li a img {
@@ -95,15 +89,6 @@ button:active {
     display: none;
   }
 
-  .logo {
-    color: #6070ff;
-    font-size: 10px;
-    font-weight: 700;
-    line-height: 20px;
-    text-align: center;
-    font-family: "Poppins", sans-serif;
-  }
-
   .canopy > img {
     width: 2%;
     height: 2%;
@@ -116,6 +101,15 @@ button:active {
     height: 30px;
   }
 
+  .myself > img {
+    right: 0;
+    margin: auto;
+    z-index: 1;
+    height: 50vh;
+    width: 100%;
+    position: absolute;
+  }
+
   .nature > img:hover {
     transform: scale(1.05);
   }
@@ -125,7 +119,22 @@ button:active {
     margin-top: 16px;
   }
 
+  input[type="email"] {
+    padding: 10px;
+    margin-top: 14px;
+  }
+
+  textarea {
+    width: 76%;
+    margin: 4% 12% 2.2% 12%;
+    height: 5.5rem;
+  }
+
   input[type="text"]:hover {
+    transform: skewX(20deg);
+  }
+
+  input[type="email"]:hover {
     transform: skewX(20deg);
   }
 
@@ -160,13 +169,6 @@ button:active {
     padding: 4.5px 5px;
     border-radius: 5px;
     background-color: white;
-    background-color: #ebebff;
-    padding: 4.5px 5px;
-    border-radius: 5px;
-  }
-
-  ul li a {
-    padding: 1px;
   }
 
   nav ul li {
@@ -194,13 +196,12 @@ button:active {
   }
 
   .see {
-    margin-top: 50px;
-    font-size: 48px;
+    margin-top: 30px;
+    font-size: 35px;
     font-weight: 700;
-    line-height: 36px;
     letter-spacing: 0.3700000047683716px;
     text-align: left;
-    font-family: "Poppins", sans-serif;
+    line-height: 40px;
   }
 
   .material {
@@ -211,8 +212,7 @@ button:active {
   .software {
     font-size: 20px;
     font-weight: 400;
-    line-height: 15px;
-    letter-spacing: 0;
+    line-height: 23px;
     text-align: left;
     margin: 5px 0 15px 0;
   }
@@ -238,10 +238,6 @@ button:active {
 
   .container li {
     margin: 0 0.4rem;
-  .social li {
-    margin: 5px 2px 0 0;
-    padding: 5px 10px 0 0;
-    background-color: white;
   }
 
   /* <!-- ------------  Tonic  ------------ --> */
@@ -303,12 +299,6 @@ button:active {
     text-align: left;
     color: #344563;
     margin-right: 2%;
-  }
-
-  .canopy > img {
-    width: 2%;
-    height: 2%;
-    margin-top: 0.5%;
   }
 
   .back {
@@ -373,9 +363,12 @@ button:active {
 
   .icon {
     display: flex;
-    margin-top: 20px;
+    margin: 20px 0;
     list-style-type: none;
+    width: 8px;
+    height: 8px;
     gap: 15px;
+    margin-top: -9px;
   }
 
   .icon li {
@@ -397,22 +390,6 @@ button:active {
     padding: 0 2%;
   }
 
-  .icon {
-    display: flex;
-    margin: 20px 0;
-    list-style-type: none;
-    width: 8px;
-    height: 8px;
-    gap: 15px;
-    margin-top: -9px;
-  }
-
-  .icon li {
-    list-style-type: none;
-    padding: 1px 1px 0 0;
-    background-color: white;
-  }
-
   .buton {
     background-color: white;
     font-style: normal;
@@ -432,12 +409,6 @@ button:active {
   .dan > li {
     list-style-type: none;
     display: block;
-  }
-
-  .js > img {
-    border-radius: 20px;
-    width: 30px;
-    height: 30px;
   }
 
   .js {
@@ -472,16 +443,6 @@ button:active {
 
   .skill {
     margin-top: 20px;
-  }
-
-  .js {
-    width: 24%;
-  }
-
-  .js > p {
-    font-size: 9px;
-    line-height: 1px;
-    margin: 6px 0;
   }
 
   .fan li {
@@ -534,36 +495,11 @@ button:active {
     background-color: white;
   }
 
-  .myself > img {
-    right: 0;
-    margin: auto;
-    z-index: 1;
-    height: 50vh;
-    width: 100%;
-    position: absolute;
-  }
-
   input {
     height: 28px;
     width: 76%;
     margin: 0 12%;
     border: 1px solid #cfd8dc;
-  }
-
-  input[type="text"] {
-    padding: 10px;
-    margin-top: 16px;
-  }
-
-  input[type="email"] {
-    padding: 10px;
-    margin-top: 14px;
-  }
-
-  textarea {
-    width: 76%;
-    margin: 4% 12% 2.2% 12%;
-    height: 5.5rem;
   }
 
   .myself {
@@ -573,7 +509,7 @@ button:active {
   }
 
   .last {
-    font-size: 23px;
+    font-size: 43px;
     font-weight: 700;
     line-height: 52px;
     text-align: center;
@@ -615,10 +551,6 @@ button:active {
   }
 
   .touch {
-    background-image: url(image/contact.png);
-    background-position: cover;
-    background-repeat: no-repeat;
-    background-size: cover;
     height: 53vh;
     width: 100%;
     display: flex;
@@ -698,12 +630,26 @@ button:active {
     padding: 20px 6% 0 5%;
   }
 
-  .back {
-    font-size: 13px;
-    font-weight: 400;
-    line-height: 12px;
-    text-align: left;
-    color: #6b778c;
+  .js > img {
+    margin-right: 12px;
+    border-radius: 25px;
+  }
+
+  .skill > img {
+    margin-left: 13.875rem;
+  }
+
+  .myself > img {
+    right: 0;
+    margin: auto;
+    z-index: 1;
+    height: 712px;
+    width: 60%;
+    position: absolute;
+  }
+
+  .nature1 > img:hover {
+    transform: scale(1.05);
   }
 
   .software {
@@ -726,6 +672,30 @@ button:active {
     text-decoration: none;
   }
 
+  input[type="text"] {
+    padding: 10px;
+    color: #172b4d;
+  }
+
+  input[type="email"] {
+    padding: 10px;
+    color: #172b4d;
+  }
+
+  input[type="text"]:hover {
+    transform: skewX(20deg);
+  }
+
+  input[type="email"]:hover {
+    transform: skewX(20deg);
+  }
+
+  .logo:hover {
+    transform: rotate(1080deg);
+    transition: 10s;
+    cursor: pointer;
+  }
+
   .navbar {
     display: none;
   }
@@ -739,10 +709,6 @@ button:active {
   }
 
   .nature {
-    display: none;
-  }
-
-  .box4 {
     display: none;
   }
 
@@ -975,11 +941,6 @@ button:active {
     color: #253858;
   }
 
-  .js > img {
-    margin-right: 12px;
-    border-radius: 25px;
-  }
-
   .fan {
     width: 100%;
     height: 66.72px;
@@ -999,23 +960,8 @@ button:active {
     margin: 1.5rem 0;
   }
 
-  .skill > img {
-    margin-left: 13.875rem;
-  }
-
   .dan li {
     list-style-type: none;
-  }
-
-  .myself > img {
-    right: 0;
-    margin: auto;
-    z-index: 1;
-    height: 712px;
-    width: 60%;
-    position: absolute;
-
-    /* margin-top: 35px; */
   }
 
   .myself {
@@ -1042,7 +988,7 @@ button:active {
 
   .last {
     padding-top: 105px;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 700;
     line-height: 22px;
     letter-spacing: 0;
@@ -1065,16 +1011,6 @@ button:active {
     width: 100%;
     border-radius: 10px;
     border: 1px solid #cfd8dc;
-  }
-
-  input[type="text"] {
-    padding: 10px;
-    color: #172b4d;
-  }
-
-  input[type="email"] {
-    padding: 10px;
-    color: #172b4d;
   }
 
   textarea {
