@@ -122,11 +122,11 @@ You can deploy this project using: github, VS Code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+👤 
+**Vivek Raj**
 ## 👥 Authors <a name="authors"></a>
 
 👤 *Author 1*
-
 
 👤 *Vivek Raj*
 

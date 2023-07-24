@@ -55,6 +55,10 @@ button:active {
     justify-content: center;
   }
 
+  h5 img {
+    margin-bottom: -10px;
+  }
+
   .logo {
     color: #6070ff;
     font-size: 10px;
@@ -72,6 +76,32 @@ button:active {
   ul li a img {
     width: 10px;
     height: 10px;
+  }
+
+  ul li a {
+    padding: 1px;
+  }
+
+  .intro > img {
+    right: 0;
+    margin: auto;
+    z-index: 1;
+    height: 50vh;
+    width: 100%;
+    position: absolute;
+  }
+
+  .top-ground1 {
+    display: none;
+  }
+
+  .logo {
+    color: #6070ff;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
   }
 
   .canopy > img {
@@ -127,6 +157,9 @@ button:active {
   }
 
   div ul li {
+    padding: 4.5px 5px;
+    border-radius: 5px;
+    background-color: white;
     background-color: #ebebff;
     padding: 4.5px 5px;
     border-radius: 5px;
@@ -162,7 +195,7 @@ button:active {
 
   .see {
     margin-top: 50px;
-    font-size: 26px;
+    font-size: 48px;
     font-weight: 700;
     line-height: 36px;
     letter-spacing: 0.3700000047683716px;
@@ -171,11 +204,12 @@ button:active {
   }
 
   .material {
+    margin: 10% 15%;
     margin: 10% 16%;
   }
 
   .software {
-    font-size: 11px;
+    font-size: 20px;
     font-weight: 400;
     line-height: 15px;
     letter-spacing: 0;
@@ -191,11 +225,19 @@ button:active {
     color: #7f8cff;
   }
 
+  .social li {
+    margin: 5px 2px 0 0;
+    padding: 5px 10px 0 0;
+    background-color: white;
+  }
+
   .social li a {
     width: 5px;
     height: 5px;
   }
 
+  .container li {
+    margin: 0 0.4rem;
   .social li {
     margin: 5px 2px 0 0;
     padding: 5px 10px 0 0;
@@ -263,6 +305,12 @@ button:active {
     margin-right: 2%;
   }
 
+  .canopy > img {
+    width: 2%;
+    height: 2%;
+    margin-top: 0.5%;
+  }
+
   .back {
     font-size: 10px;
     font-weight: 400;
@@ -316,6 +364,29 @@ button:active {
 
   .about {
     background-color: white;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 10%;
+    gap: 2%;
+    border-radius: 0 70px 0 0;
+  }
+
+  .icon {
+    display: flex;
+    margin-top: 20px;
+    list-style-type: none;
+    gap: 15px;
+  }
+
+  .icon li {
+    padding: 1px 1px 0 0;
+    background-color: white;
+    list-style-type: none;
+  }
+
+  .icon li a {
+    width: 8px;
+    height: 8px;
     display: flex;
     padding: 10%;
     border-radius: 0 70px 0 0;
@@ -361,6 +432,22 @@ button:active {
   .dan > li {
     list-style-type: none;
     display: block;
+  }
+
+  .js > img {
+    border-radius: 20px;
+    width: 30px;
+    height: 30px;
+  }
+
+  .js {
+    width: 24%;
+  }
+
+  .js > p {
+    font-size: 9px;
+    line-height: 1px;
+    margin: 6px 0;
   }
 
   .fan > li {
@@ -447,11 +534,25 @@ button:active {
     background-color: white;
   }
 
+  .myself > img {
+    right: 0;
+    margin: auto;
+    z-index: 1;
+    height: 50vh;
+    width: 100%;
+    position: absolute;
+  }
+
   input {
     height: 28px;
     width: 76%;
     margin: 0 12%;
     border: 1px solid #cfd8dc;
+  }
+
+  input[type="text"] {
+    padding: 10px;
+    margin-top: 16px;
   }
 
   input[type="email"] {
@@ -543,6 +644,10 @@ button:active {
     padding: 0% 5%;
   }
 
+  .top-ground {
+    display: none;
+  }
+
   .intro {
     background-color: white;
     border-radius: 0 0 0 70px;
@@ -572,6 +677,7 @@ button:active {
   }
 
   .canopy {
+    font-size: 18px;
     font-size: 20px;
     display: flex;
     flex-direction: row;
@@ -590,6 +696,14 @@ button:active {
     align-items: center;
     background-color: white;
     padding: 20px 6% 0 5%;
+  }
+
+  .back {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 12px;
+    text-align: left;
+    color: #6b778c;
   }
 
   .software {
@@ -613,6 +727,14 @@ button:active {
   }
 
   .navbar {
+    display: none;
+  }
+
+  .box4 {
+    display: none;
+  }
+
+  ul li .box4 {
     display: none;
   }
 
@@ -807,6 +929,10 @@ button:active {
     margin-top: 15px;
     border: 1px solid #6070ff;
     border-radius: 8px;
+  }
+
+  .ground1 {
+    display: none;
   }
 
   h5 {
