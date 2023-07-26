@@ -57,7 +57,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Coming Soon
+- [Live Demo Link]([https://google.com](https://vivekraaz.github.io/portfolio/))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
