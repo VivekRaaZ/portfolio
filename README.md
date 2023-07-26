@@ -57,7 +57,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://vivekraaz.github.io/portfolio/)
+- [Live Demo Link]@(https://vivekraaz.github.io/portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,13 +133,6 @@ You can deploy this project using: github, VS Code
 - GitHub: [@githubhandle](https://github.com/VivekRaaZ?tab=repositories)
 - Twitter: [@twitterhandle](https://twitter.com/BossVivekRaj)
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/vivek-raj-a78b92256/)
-
- 👤 *Author 2*
-👤 *Okeke Okechukwu*
-
-- GitHub: [@githubhandle](https://github.com/okayboy12)
-- Twitter: [@twitterhandle](https://twitter.com/okayboy)
-- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/okechukwu-okeke-5a96b9a2/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
