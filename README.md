@@ -134,6 +134,10 @@ You can deploy this project using: github, VS Code
 - Twitter: [@twitterhandle](https://twitter.com/BossVivekRaj)
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/vivek-raj-a78b92256/)
 
+👤 IsaMarvin
+
+- GitHub: [IsaMarvin](https://github.com/IsaMarvin)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -141,6 +145,8 @@ You can deploy this project using: github, VS Code
 - [ ] **Improving the outlook by implementing the responsive design**
 - [ ] **Styling the hamburger botton**
 - [ ] **Adding javascript to create our project more functional**
+- [ ] **Details popup window**
+- [ ] **Validate contact form**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
