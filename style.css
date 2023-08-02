@@ -1043,6 +1043,7 @@ button:active {
     width: 100vw;
     top: 0;
     position: fixed;
+    display: none;
   }
 
   .navbar1 {
