@@ -139,7 +139,7 @@ You can deploy this project using: github, VS Code
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Improving the outlook by implementing the responsive design**
-- [ ] **Styling the heading by using CSS**
+- [ ] **Styling the hamburger botton**
 - [ ] **Adding javascript to create our project more functional**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
