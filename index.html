@@ -13,21 +13,39 @@
     />
   </head>
   <body>
+    <header class="head">
+      <div class="logo">My logo</div>
+      <nav id="navbar1"  onclick="showNav">
+        <img src="image/Union.png" alt="button" />
+      </nav>
+      <nav class="navbar">
+        <ul class="container">
+          <li><a href="#facebook">Portfolio</a></li>
+          <li><a href="#About">About</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!-- ----------------- hamburger ------------------- -->
+    <div class="ham" id="burger">
+      <button id="menuIcon" class="close-icon" onclick="closeNavbar()">
+        <img src="image/cancel.png" alt="" />
+      </button>
+      <ul class="hambar">
+        <li onclick="hideNavbar()">
+          <a href="#facebook">Portfolio</a>
+        </li>
+        <li onclick="hideNavbar()">
+          <a href="#About">About</a>
+        </li>
+        <li onclick="hideNavbar()">
+          <a href="#contact">Contact</a>
+        </li>
+      </ul>
+    </div>
     <main class="boss">
       <div class="raj"></div>
-      <header class="head">
-        <div class="logo">My logo</div>
-        <nav class="navbar1">
-          <img src="image/Union.png" alt="button" />
-        </nav>
-        <nav class="navbar">
-          <ul class="container">
-            <li><a href="#facebook">Portfolio</a></li>
-            <li><a href="#About">About</a></li>
-            <li><a href="#contact">Contact</a></li>
-          </ul>
-        </nav>
-      </header>
+     <!-- ------------------- main-page------------------ -->
       <section class="master">
         <div class="intro">
           <img class="top-ground" src="image/Header bg@2x.png" alt="back" />
@@ -443,5 +461,7 @@
         </div>
       </section>
     </main>
+    
+    <script src="javascript.js"></script>
   </body>
 </html>
