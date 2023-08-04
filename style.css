@@ -936,7 +936,16 @@ ul.social-links li {
     width: 90%;
   }
 
+
   .nav {
+  /* ------------------------hamburger--------------------- */
+  .ham {
+    background-color: #396df2d3;
+    backdrop-filter: blur(5px);
+    height: 100vh;
+    width: 100vw;
+    top: 0;
+    position: fixed;
     display: none;
   }
 
